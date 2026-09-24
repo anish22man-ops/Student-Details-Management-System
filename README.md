@@ -96,9 +96,13 @@ When a student is added, the information is inserted into the SQLite database. T
 
 Users can select a record from the table to update or delete it. The search functionality allows users to find specific records quickly.
 
+
 ## How to Run
 
 ### 1. Download or Clone the Repository
 
 ***You can download the repository or clone it using Git:
 git clone https://github.com/anish22man-ops/student-details-management-system.git
+
+Created By :
+Anish Mangaonkar
